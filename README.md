@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I am Sai Rudra Sharma!
 
-<!--
-**sai-2008411/sai-2008411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- B.Tech CSE Student at K.R. Mangalam University, Gurugram (Batch 2025–29)
+- Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
+- Interested in: Full-Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+| Category   | Technologies                                        |
+|------------|-----------------------------------------------------|
+| Languages  | Python (Beginner), Bash / Shell Scripting           |
+| Tools      | Git, GitHub, VS Code, Linux Terminal                |
+| Concepts   | File Systems, Process Management, Markdown          |
+
+## Featured Projects
+
+- [CSE103 Lab — LAB 3](https://github.com/sai-2008411/cse103-lab-LAB3)
+
+  Git workflows, API interaction, and Markdown documentation
+
+## Currently Working On
+
+- Semester 1 lab projects and building daily problem-solving habits
+
+## Connect With Me
+
+- LinkedIn: [linkedin.com/in/sairudra-sharma-017970433](https://www.linkedin.com/in/sairudra-sharma-017970433)
+- Email: 2601010188@krmu.edu.in
